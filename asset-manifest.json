@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "./static/css/main.21837a80.chunk.css",
+    "main.js": "./static/js/main.cefd207c.chunk.js",
+    "main.js.map": "./static/js/main.cefd207c.chunk.js.map",
+    "runtime-main.js": "./static/js/runtime-main.330dba63.js",
+    "runtime-main.js.map": "./static/js/runtime-main.330dba63.js.map",
+    "static/js/2.9ea1ceed.chunk.js": "./static/js/2.9ea1ceed.chunk.js",
+    "static/js/2.9ea1ceed.chunk.js.map": "./static/js/2.9ea1ceed.chunk.js.map",
+    "index.html": "./index.html",
+    "static/css/main.21837a80.chunk.css.map": "./static/css/main.21837a80.chunk.css.map",
+    "static/js/2.9ea1ceed.chunk.js.LICENSE.txt": "./static/js/2.9ea1ceed.chunk.js.LICENSE.txt",
+    "static/media/NotFoundPage.scss": "./static/media/Mont-SemiBold.8979d71a.otf"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.330dba63.js",
+    "static/js/2.9ea1ceed.chunk.js",
+    "static/css/main.21837a80.chunk.css",
+    "static/js/main.cefd207c.chunk.js"
+  ]
+}
