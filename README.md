@@ -1,4 +1,4 @@
-# Phone Catalog Team Project
+# Phone Catalog Project
 - [DEMO LINK](https://Yeliseiev.github.io/phone_catalog_react_redux/)
 
 React Application implemented according to [Figma design](https://www.figma.com/file/uEetgWenSRxk9jgiym6Yzp/Phone-catalog-redesign?type=design&node-id=1-2&mode=design&t=BBMX0oWCyAHasxFJ-0)
